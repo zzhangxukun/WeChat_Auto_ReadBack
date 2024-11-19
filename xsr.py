@@ -1,11 +1,7 @@
-import time
 from threading import Thread
 import keyboard
 from wxauto import WeChat
 import sys
-import cv2
-import numpy
-import urllib.request
 
 
 file = "nmsf.png"
